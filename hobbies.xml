@@ -3,3 +3,8 @@
   <name>Soccer</name>
   <description>The simplest and bestest of sports</description>
 </hobby>
+
+<hobby>
+  <name>Coding</name>
+  <description>Hacking up computers to bend them to my will...</description>
+</hobby>
