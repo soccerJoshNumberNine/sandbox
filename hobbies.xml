@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<CATALOG>
+<catalog>
   <hobby>
     <name>Soccer</name>
     <description>The simplest and bestest of sports</description>
@@ -8,4 +8,8 @@
     <name>Coding</name>
     <description>Hacking up computers to bend them to my will...</description>
   </hobby>
-</CATALOG>
+  <hobby>
+    <name>Rubik's Cubes</name>
+    <description>(R' D' R D)(R' D' R D) U (R' D' R D)(R' D' R D) U (R' D' R D)(R' D' R D)</description>
+  </hobby>
+</catalog>
