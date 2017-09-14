@@ -1,9 +1,11 @@
 <?xml version="1.0" ?>
-<hobby>
-  <name>Soccer</name>
-  <description>The simplest and bestest of sports</description>
-</hobby>
-<hobby>
-  <name>Soccer</name>
-  <description>The simplest and bestest of sports</description>
-</hobby>
+<CATALOG>
+  <hobby>
+    <name>Soccer</name>
+    <description>The simplest and bestest of sports</description>
+  </hobby>
+  <hobby>
+    <name>Coding</name>
+    <description>Hacking up computers to bend them to my will...</description>
+  </hobby>
+</CATALOG>
