@@ -1,3 +1,0 @@
-You have made it to my jQuery section!
-
-Everything I have learned of jQuery has come from https://codeacademy.com and https://w3schools.com. If you are learning, I would recommend you check them out!
