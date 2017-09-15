@@ -1,5 +1,5 @@
 $(document).ready(function () {
-  var games = JSON.parse(json);
+  var games = JSON.parse(games);
   var i = 0;
   
   for (i = 0; i < games.length; i++) {
