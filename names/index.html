@@ -6,6 +6,18 @@
 <body>
   <table id="wow"></table>
   <script>
+var names = [
+  'Joshua',
+  'John',
+  'Jose',
+  'Juan',
+  'Charles'
+];
+
+var wow = JSON.stringify(names);
+
+//document.getElementById('yee').innerHTML = wow;
+
 function getNames () {
   var xmlhttp = new XMLHttpRequest();
   var url = "/sandbox/data/names.txt";
@@ -25,6 +37,8 @@ function getNames () {
 function createTable () {
   document.getElementById('wow').innerHTML = getNames();
 }
+
+createTable();
   </script>
 </body>
 </html>
